@@ -4,7 +4,6 @@
 {{ reserveImport "strconv"  }}
 {{ reserveImport "time"  }}
 {{ reserveImport "sync"  }}
-{{ reserveImport "errors"  }}
 {{ reserveImport "bytes"  }}
 
 {{ reserveImport "github.com/vektah/gqlparser/v2" }}
