@@ -7,11 +7,11 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/99designs/gqlgen/graphql"
-	"github.com/99designs/gqlgen/graphql/handler"
-	"github.com/99designs/gqlgen/graphql/handler/extension"
-	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/99designs/gqlgen/integration"
+	"github.com/willdhorn/gqlgen/graphql"
+	"github.com/willdhorn/gqlgen/graphql/handler"
+	"github.com/willdhorn/gqlgen/graphql/handler/extension"
+	"github.com/willdhorn/gqlgen/graphql/playground"
+	"github.com/willdhorn/gqlgen/integration"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
 

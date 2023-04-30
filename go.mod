@@ -31,4 +31,4 @@ require (
 	golang.org/x/sys v0.5.0 // indirect
 )
 
-replace github.com/99designs/gqlgen => github.com/willdhorn/gqlgen master
+replace github.com/99designs/gqlgen => github.com/willdhorn/gqlgen v0.0.0-20230430182250-093c60a73805
